@@ -1,0 +1,13 @@
+.cabeçalho{
+    background-color: blueviolet;
+    color:white;
+    display: flex;
+    
+}
+
+
+
+
+.cabesalho.imagem{
+    width: 20%;
+}
