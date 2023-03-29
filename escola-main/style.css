@@ -1,13 +1,11 @@
-.cabeçalho{
+.cabecalho{
     background-color: blueviolet;
     color:white;
     display: flex;
-    
+   
 }
 
 
-
-
-.cabesalho.imagem{
+.cabecalho.imagem{
     width: 20%;
 }
